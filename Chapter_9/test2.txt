@@ -1,0 +1,8 @@
+Program name: graniteer
+Author: Randal L. Schwartz
+Company: RockSoft
+Department: R&D
+Date: 2016年 06月 05日 星期日 17:24:37 CST
+Version: 2.1
+Size: 21k
+Status: Final beta
